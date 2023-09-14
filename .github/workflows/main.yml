@@ -1,5 +1,5 @@
 Actions
-name: weixin
+name：weixin
 on:
   workflow_dispatch:
   schedule: 
